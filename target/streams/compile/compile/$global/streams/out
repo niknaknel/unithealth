@@ -1,0 +1,4 @@
+[error] /home/annika/Altech/Jun2019/unithealth/src/main/scala/DecodedStream.scala:78:91: value $ is not a member of StringContext
+[error]     val locationJSONdf = df.selectExpr("CAST(value AS STRING)").withColumn("value", unzip($"value"))
+[error]                                                                                           ^
+[error] one error found
