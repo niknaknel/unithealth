@@ -1,7 +1,7 @@
 ErrorCode,Name,Description
 1,Excessive 103s,More than six 103 (accident) events detected for the unit in the last hour
 2,Excessive 127s,More than ten 127 (last known location) events detected for the unit in the last 15 minutes
-3,Excessive zeros,More than fifty (0; 0) locations (no GPS fix) detected for the unit in the last hour
+3,Excessive zeros,More than fifty (0 0) locations (no GPS fix) detected for the unit in the last hour
 4,Future dated location,Future dated location reported by the unit
 5,Invalid coordinates,Invalid (out of bounds of South Africa) coordinates reported by the unit
 6,Identical coordinates,More than five identical coordinates reported by the same unit in the last hour
